@@ -1,4 +1,4 @@
-[Office.TXT @ GitHub]()
+[Office.TXT @ GitHub](https://github.com/officetxt)
 
 # Office.TXT - The Free Writer's Command Line Tool Suite
 
@@ -35,9 +35,9 @@ $ txt
 to list all command line tools and versions:
 
 ``` text
-officetxt/0.1.0
+Welcome to officetxt/0.1.0
 
-Tool versions:
+Tool versions installed:
   journaltxt/1.0.1
   jekyll/3.3.4
   drjekyll/1.0.1
