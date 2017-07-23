@@ -28,7 +28,8 @@ Command line tools include:
 Use
 
 ``` text
-$ officetxt   -or-
+$ officetxt   
+   -or-
 $ txt
 ```
 
