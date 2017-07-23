@@ -46,12 +46,14 @@ Tool versions:
 
 ### What's Journal.TXT?
 
-reads Journal.TXT and writes out (auto-builds) a blog (w/ Jekyll posts etc.),
+reads Journal.TXT and writes out (auto-builds) a blog (w/ Jekyll posts etc.);
 learn more [journaltxt/journaltxt »](https://github.com/journaltxt/journaltxt)
 
 
 ### What's Slide Show (S9)?
 
+write your slides / talks / presentations in (plain) text with markdown formatting conventions;
+free web alternative to PowerPoint and Keynote; learn more [slideshow-s9 »](http://slideshow-s9.github.io)
 
 
 
