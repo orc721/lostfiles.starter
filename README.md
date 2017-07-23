@@ -2,16 +2,16 @@
 
 # Office.TXT - The Free Writer's Command Line Tool Suite
 
-Works w/ Any Text Editor - Future-Proof Text Formats - Write Notes, Articles, Journals, Presentations, Websites, Blogs, Manuscripts, Books & More
+Works w/ any text editor - future-proof text formats - write notes, articles, journals, presentations, websites, blogs, manuscripts, books & more
 
 
-All-In-One Installation
+All-in-one installation:
 
 ```
 $ gem install officetxt
 ```
 
-Command Line Tools Include:
+Command line tools include:
 
 - `officetxt` (`txt`)
 - `journaltxt` (`jo`)
@@ -46,13 +46,13 @@ Tool versions installed:
 
 ### What's Journal.TXT?
 
-reads Journal.TXT and writes out (auto-builds) a blog (w/ Jekyll posts etc.);
+Reads Journal.TXT and writes out (auto-builds) a blog (w/ Jekyll posts etc.);
 learn more [journaltxt/journaltxt »](https://github.com/journaltxt/journaltxt)
 
 
 ### What's Slide Show (S9)?
 
-write your slides / talks / presentations in (plain) text with markdown formatting conventions;
+Write your slides / talks / presentations in (plain) text with markdown formatting conventions;
 free web alternative to PowerPoint and Keynote; learn more [slideshow-s9 »](http://slideshow-s9.github.io)
 
 
