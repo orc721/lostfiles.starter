@@ -196,6 +196,11 @@ COMMANDS
 Write your show notes in (plain) text and publish (and sync)
 your podcasts / radio talk shows; learn more [jekyll-octopod »](https://jekyll-octopod.github.io)
 
+Brought to you by:
+
+{% include avatar.html handle="haslinger" name="Stefan Haslinger" %}
+
+
 Try on the command line:
 
 ```
