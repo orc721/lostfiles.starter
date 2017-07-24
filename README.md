@@ -273,7 +273,7 @@ learn more [jneen/rouge »](https://github.com/jneen/rouge)
 
 Brought to you by:
 
-{% avatar jneen %}
+{% include avatar.html handle="jneen" name="Jeanine Adkisson" %}
 
 
 Try on the command line:
@@ -305,7 +305,8 @@ hypertext markup language (html) or latex; learn more [kramdown »](https://kram
 
 Brought to you by:
 
-{% avatar gettalong %}
+{% include avatar.html handle="gettalong" name="Thomas Leitner" %}
+
 
 
 Try on the command line:
@@ -383,10 +384,10 @@ kramdown options:
 Lets you liberate content from Microsoft Word documents;
 learn more [benbalter/word-to-markdown »](https://github.com/benbalter/word-to-markdown)
 
-
 Brought to you by:
 
-{% avatar benbalter %}
+{% include avatar.html handle="benbalter" name="Ben Balter" %}
+
 
 Try on the command line:
 
