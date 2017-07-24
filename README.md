@@ -94,7 +94,7 @@ Try on the command line:
 $ slideshow help
 ```
 
-result in:
+resulting in:
 
 ```
 slideshow/3.1.0
@@ -105,14 +105,10 @@ NAME
 SYNOPSIS
     slideshow [global options] command [command options] [arguments...]
 
-VERSION
-    3.1.0
-
 GLOBAL OPTIONS
     -c, --config=PATH - Configuration Path (default: Z:/.slideshow)
     --help            - Show this message
     -q, --quiet       - Only show warnings, errors and fatal messages
-    --verbose         - (Debug) Show debug messages
     --version         - Display the program version
 
 COMMANDS
@@ -123,9 +119,81 @@ COMMANDS
     list, ls, l        - List installed template packs
     new, n             - Generate quick starter sample
     plugins, plugin, p - (Debug) List plugin scripts in load path
-    test               - (Debug) Show global options, options, arguments for
-                         test command
     update, u          - Update shortcut index for template packs 'n' plugins
+```
+
+### What's Dr Jekyll?
+
+Lets you manage static website theme packages; 
+learn more [drjekyllthemes/drjekyll »](https://github.com/drjekyllthemes/drjekyll)
+
+Try on the command line:
+
+```
+$ drjekyll help
+  -or-
+$ drj help
+```
+
+resulting in:
+
+```
+drjekyll/1.0.1
+
+NAME
+    drjekyll - jekyll command line tool .:. the missing static site package manager
+
+SYNOPSIS
+    drjekyll [global options] command [command options] [arguments...]
+
+GLOBAL OPTIONS
+    --help    - Show this message
+    --version - Display the program version
+
+COMMANDS
+    download, dl, d, get, g - (Debug) Step 1: Download theme; .zip archive saved
+                              in working folder (./)
+    help                    - Shows a list of commands or help for one command
+    list, ls, l             - List themes
+    new, n                  - Download 'n' setup (unzip/unpack) theme
+    unpack, pk, p, setup, s - (Debug) Step 2: Setup (unzip/unpack) theme; uses
+                              saved .zip archive in working folder (./)
+```
+
+## What's Mr Hyde?
+
+Lets you run a static website quick starter wizard script 
+to download and install (unzip/unpack) a theme archive and configure a static website ready-to-use;
+learn more [mrhydescripts/mrhyde »](https://github.com/mrhydescripts/mrhyde)
+
+
+Try on the command line:
+
+```
+$ mrhyde help
+  -or-
+$ mrh help
+```
+
+resulting in:
+
+```
+mrhyde/0.1.1
+
+NAME
+    mrhyde - jekyll command line tool .:. the static site quick starter script wizard
+
+SYNOPSIS
+    mrhyde [global options] command [command options] [arguments...]
+
+GLOBAL OPTIONS
+    --help            - Show this message
+    --test, --dry_run - (Debug) Dry run; run script in simulation for testing
+    --version         - Display the program version
+
+COMMANDS
+    help   - Shows a list of commands or help for one command
+    new, n - Run static site quick starter script
 ```
 
 
