@@ -306,7 +306,7 @@ Brought to you by:
 Try on the command line:
 
 ```
-$ kramdown -help
+$ kramdown --help
 ```
 
 resulting in (note: shortened all options):
@@ -434,3 +434,6 @@ COMMANDS
 ## Questions? Comments?
 
 Send them along to the [wwwmake mailing list/forum](http://groups.google.com/group/wwwmake). Thanks.
+
+
+{% include footer.html %}
