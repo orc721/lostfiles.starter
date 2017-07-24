@@ -20,8 +20,9 @@ Command line tools include:
 - `mrhyde` (`mrh`)
 - `slideshow`
 - `pluto`
-- `rouge`   
+- `rougify`   
 - `kramdown`
+- `w2m`   
 - `quik` (`qk`)
 
 
@@ -40,9 +41,17 @@ Welcome to officetxt/0.1.0
 
 Tool versions installed:
   journaltxt/1.0.1
-  jekyll/3.3.4
+  jekyll/3.5.0
+    jekyll-import/0.12.0
+    jekyll-avatar/0.4.2
+  mrhyde/0.1.1
   drjekyll/1.0.1
-  ...
+  slideshow/3.1.0
+  pluto/1.2.3
+  rouge/1.11.1
+  kramdown/1.13.2
+  word-to-markdown/1.1.7
+  quik/0.3.0
 ```
 
 ### What's Journal.TXT?
