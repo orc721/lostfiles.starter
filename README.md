@@ -2,8 +2,8 @@
 # D.I.Y. Lost Files (Portrait) Collection Starter  - Classic & Maxi Biz Editions
 
 
-[Classic Edition](#classic_edition)  • 
-[Maxi Biz Edition](#maxi_biz_edition)
+[Classic Edition](#classic-edition)  • 
+[Maxi Biz Edition](#maxi-biz-edition)
 
 
 ## Classic Edition
@@ -58,11 +58,27 @@ To find your g(enerative) numbers in range 0-79 (80) for the mint text - try the
 
 
 
+![](i/lostfile1.png)
+
+`og mint lostfiles 0 20 35 58 74`
+
+
+![](i/lostfile2.png)
+
+`og mint lostfiles 13 22 46 52 69`
+
+
 
 
 ## Maxi Biz Edition
 
-The idea is ...
+The idea is ... for more fun let's turn "classic"
+Lost Files into a Maxi Biz edition ...
+
+1. all black & white (1-bit) and  
+2. laser eyes in r/g/b (red/green/blue) and 
+3. optional backgrounds.
+
 
 
 ###  Wen Deploy? Wen Mint?
