@@ -34,6 +34,7 @@ edb39fd1f0f33b9e989fa32a5a9a2962f806f4cd487f7e30f700014f13ed19aci0
 That's it. Yes, you can - start a free mint (first-come/first-serve).
 
 
+<!--
 Note: You are more than welcome to change
 the collection slug `lostfiles`
 or the name e.g. Lost Files (Portrait)
@@ -42,7 +43,7 @@ or the max (limit) e.g. 44 to your own liking.
 Note: The collection slug MUST be unique and not yet taken / deployed.
 Tip: Search for `og deploy` to see if taken / deployed 
 e.g. try [`unisat.io/search?q=og deploy&type=text`](https://unisat.io/search?q=og%20deploy&type=text&p=1), for example.  
-
+-->
 
 
 Wen [next] deploy?   You are welcome to announce your ordgen / ORC-721 collections
